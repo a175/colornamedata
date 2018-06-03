@@ -29,8 +29,8 @@ JISで定義されている色名は
 
 css/color.css は, 日本語版wikipediaの色名一覧等の記事をもとに作成されています.
 作成に使った記事の編集履歴 (著者) は, css/colors.wikipedia-copyright にあります.
-
-css/color.css および css/colors.wikipedia-copyright は CC-BY-SA 3.0.
+css/color.css および css/colors.wikipedia-copyright は
+CC-BY-SA 3.0のライセンスの下で利用してください.
 
 
 
